@@ -18,7 +18,7 @@ icons.forEach(icon => {
 
 const iconScss = '.icon{\n'+ icons.map(icon => {
     return `&--${icon[0]} {\nbackground-image:url('./icons/${icon[0]}.svg')\n}`
-}).join(';\n') + '\n}'
+}).join('\n') + '\n}'
 
 
  fs.writeFile(`figmaIcons.scss`,iconScss, 'utf8',  (err) => {
