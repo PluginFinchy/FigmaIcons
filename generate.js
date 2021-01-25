@@ -26,7 +26,7 @@ const iconScss = '.icon{\n'+ icons.map(icon => {
 })
 
 const iconMd = `|Icon|Name|\n|-|-|\n`+icons.map(icon => {
-    return `|   icon--${icon[0]}| ![${icon[0]}](icons/${icon[0].svg})`
+    return `|   icon--${icon[0]}| ![${icon[0]}](icons/${icon[0]}.svg)`
 }).join('\n')
 
 fs.writeFile(`readme.md`,iconMd, 'utf8',  (err) => {
