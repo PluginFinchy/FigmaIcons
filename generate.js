@@ -27,8 +27,8 @@ const iconScss = '.icon{\n'+ icons.map(icon => {
 
 const iconMd = `|Icon|Name|\n|-|-|\n`+icons.map(icon => {
     return `|   icon--${icon[0]}| ![${icon[0]}](icons/${icon[0]})`
-})
+}).join('\n')
 
-fs.writeFile(`icons.md`,iconMd, 'utf8',  (err) => {
+fs.writeFile(`readme.md`,iconMd, 'utf8',  (err) => {
     err ? console.log(err) : null;
 })
