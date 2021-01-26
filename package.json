@@ -1,12 +1,14 @@
 {
-  "name": "figma-icons",
+  "name": "figmaicons",
   "version": "1.0.0",
   "description": "",
   "main": "generate.js",
   "dependencies": {
+    
+  },
+  "devDependencies": {
     "node-sass": "^5.0.0"
   },
-  "devDependencies": {},
   "scripts": {
     "build": "node generate.js"
   },
