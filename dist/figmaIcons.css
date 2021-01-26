@@ -1,1096 +1,1096 @@
 @charset "UTF-8";
 .icon--32-angle {
-  background-image: url("./dist/icons/32-angle.svg");
+  background-image: url("./icons/32-angle.svg");
 }
 
 .icon--32-corner-radius {
-  background-image: url("./dist/icons/32-corner-radius.svg");
+  background-image: url("./icons/32-corner-radius.svg");
 }
 
 .icon--32-link-connected {
-  background-image: url("./dist/icons/32-link-connected.svg");
+  background-image: url("./icons/32-link-connected.svg");
 }
 
 .icon--32-link-broken {
-  background-image: url("./dist/icons/32-link-broken.svg");
+  background-image: url("./icons/32-link-broken.svg");
 }
 
 .icon--32-resize_to_fit {
-  background-image: url("./dist/icons/32-resize_to_fit.svg");
+  background-image: url("./icons/32-resize_to_fit.svg");
 }
 
 .icon--32-search-large {
-  background-image: url("./dist/icons/32-search-large.svg");
+  background-image: url("./icons/32-search-large.svg");
 }
 
 .icon--32-adjustedit {
-  background-image: url("./dist/icons/32-adjustedit.svg");
+  background-image: url("./icons/32-adjustedit.svg");
 }
 
 .icon--32-ellipsis {
-  background-image: url("./dist/icons/32-ellipsis.svg");
+  background-image: url("./icons/32-ellipsis.svg");
 }
 
 .icon--32-corners {
-  background-image: url("./dist/icons/32-corners.svg");
+  background-image: url("./icons/32-corners.svg");
 }
 
 .icon--32-plus {
-  background-image: url("./dist/icons/32-plus.svg");
+  background-image: url("./icons/32-plus.svg");
 }
 
 .icon--32-minus {
-  background-image: url("./dist/icons/32-minus.svg");
+  background-image: url("./icons/32-minus.svg");
 }
 
 .icon--32-break {
-  background-image: url("./dist/icons/32-break.svg");
+  background-image: url("./icons/32-break.svg");
 }
 
 .icon--32-hyperlink {
-  background-image: url("./dist/icons/32-hyperlink.svg");
+  background-image: url("./icons/32-hyperlink.svg");
 }
 
 .icon--32-recent {
-  background-image: url("./dist/icons/32-recent.svg");
+  background-image: url("./icons/32-recent.svg");
 }
 
 .icon--32-line-height {
-  background-image: url("./dist/icons/32-line-height.svg");
+  background-image: url("./icons/32-line-height.svg");
 }
 
 .icon--32-letter-spacing {
-  background-image: url("./dist/icons/32-letter-spacing.svg");
+  background-image: url("./icons/32-letter-spacing.svg");
 }
 
 .icon--32-paragraph-spacing {
-  background-image: url("./dist/icons/32-paragraph-spacing.svg");
+  background-image: url("./icons/32-paragraph-spacing.svg");
 }
 
 .icon--32-paragraph-indent {
-  background-image: url("./dist/icons/32-paragraph-indent.svg");
+  background-image: url("./icons/32-paragraph-indent.svg");
 }
 
 .icon--32-effects {
-  background-image: url("./dist/icons/32-effects.svg");
+  background-image: url("./icons/32-effects.svg");
 }
 
 .icon--32-close {
-  background-image: url("./dist/icons/32-close.svg");
+  background-image: url("./icons/32-close.svg");
 }
 
 .icon--32-page {
-  background-image: url("./dist/icons/32-page.svg");
+  background-image: url("./icons/32-page.svg");
 }
 
 .icon--32-visibleeyeopen {
-  background-image: url("./dist/icons/32-visibleeyeopen.svg");
+  background-image: url("./icons/32-visibleeyeopen.svg");
 }
 
 .icon--32-hiddeneyeclosed {
-  background-image: url("./dist/icons/32-hiddeneyeclosed.svg");
+  background-image: url("./icons/32-hiddeneyeclosed.svg");
 }
 
 .icon--32-blend-emptydrop {
-  background-image: url("./dist/icons/32-blend-emptydrop.svg");
+  background-image: url("./icons/32-blend-emptydrop.svg");
 }
 
 .icon--32-blenddrop {
-  background-image: url("./dist/icons/32-blenddrop.svg");
+  background-image: url("./icons/32-blenddrop.svg");
 }
 
 .icon--32-share {
-  background-image: url("./dist/icons/32-share.svg");
+  background-image: url("./icons/32-share.svg");
 }
 
 .icon--32-plugin {
-  background-image: url("./dist/icons/32-plugin.svg");
+  background-image: url("./icons/32-plugin.svg");
 }
 
 .icon--32-layout-align-left {
-  background-image: url("./dist/icons/32-layout-align-left.svg");
+  background-image: url("./icons/32-layout-align-left.svg");
 }
 
 .icon--32-layout-align-horizontal-centers {
-  background-image: url("./dist/icons/32-layout-align-horizontal-centers.svg");
+  background-image: url("./icons/32-layout-align-horizontal-centers.svg");
 }
 
 .icon--32-layout-align-right {
-  background-image: url("./dist/icons/32-layout-align-right.svg");
+  background-image: url("./icons/32-layout-align-right.svg");
 }
 
 .icon--32-distribute-horizontal-spacing {
-  background-image: url("./dist/icons/32-distribute-horizontal-spacing.svg");
+  background-image: url("./icons/32-distribute-horizontal-spacing.svg");
 }
 
 .icon--32-distribute-vertical-spacing {
-  background-image: url("./dist/icons/32-distribute-vertical-spacing.svg");
+  background-image: url("./icons/32-distribute-vertical-spacing.svg");
 }
 
 .icon--32-list-detailed {
-  background-image: url("./dist/icons/32-list-detailed.svg");
+  background-image: url("./icons/32-list-detailed.svg");
 }
 
 .icon--32-trash {
-  background-image: url("./dist/icons/32-trash.svg");
+  background-image: url("./icons/32-trash.svg");
 }
 
 .icon--32-layout-align-top {
-  background-image: url("./dist/icons/32-layout-align-top.svg");
+  background-image: url("./icons/32-layout-align-top.svg");
 }
 
 .icon--32-layout-align-vertical-centers {
-  background-image: url("./dist/icons/32-layout-align-vertical-centers.svg");
+  background-image: url("./icons/32-layout-align-vertical-centers.svg");
 }
 
 .icon--32-layout-align-bottom {
-  background-image: url("./dist/icons/32-layout-align-bottom.svg");
+  background-image: url("./icons/32-layout-align-bottom.svg");
 }
 
 .icon--32-stroke-weight {
-  background-image: url("./dist/icons/32-stroke-weight.svg");
+  background-image: url("./icons/32-stroke-weight.svg");
 }
 
 .icon--32-library {
-  background-image: url("./dist/icons/32-library.svg");
+  background-image: url("./icons/32-library.svg");
 }
 
 .icon--32-timer {
-  background-image: url("./dist/icons/32-timer.svg");
+  background-image: url("./icons/32-timer.svg");
 }
 
 .icon--32-community {
-  background-image: url("./dist/icons/32-community.svg");
+  background-image: url("./icons/32-community.svg");
 }
 
 .icon--32-tidy-up-list-vertical {
-  background-image: url("./dist/icons/32-tidy-up-list-vertical.svg");
+  background-image: url("./icons/32-tidy-up-list-vertical.svg");
 }
 
 .icon--32-tidy-up-list-horizontal {
-  background-image: url("./dist/icons/32-tidy-up-list-horizontal.svg");
+  background-image: url("./icons/32-tidy-up-list-horizontal.svg");
 }
 
 .icon--32-tidy-up-grid {
-  background-image: url("./dist/icons/32-tidy-up-grid.svg");
+  background-image: url("./icons/32-tidy-up-grid.svg");
 }
 
 .icon--32-arrow-left-right↔︎ {
-  background-image: url("./dist/icons/32-arrow-left-right↔︎.svg");
+  background-image: url("./icons/32-arrow-left-right↔︎.svg");
 }
 
 .icon--32-arrow-up-down↕︎ {
-  background-image: url("./dist/icons/32-arrow-up-down↕︎.svg");
+  background-image: url("./icons/32-arrow-up-down↕︎.svg");
 }
 
 .icon--32-bellwithdot {
-  background-image: url("./dist/icons/32-bellwithdot.svg");
+  background-image: url("./icons/32-bellwithdot.svg");
 }
 
 .icon--32-bellusedfornotifications {
-  background-image: url("./dist/icons/32-bellusedfornotifications.svg");
+  background-image: url("./icons/32-bellusedfornotifications.svg");
 }
 
 .icon--32-megaphone3 {
-  background-image: url("./dist/icons/32-megaphone3.svg");
+  background-image: url("./icons/32-megaphone3.svg");
 }
 
 .icon--32-layout-grid-rows {
-  background-image: url("./dist/icons/32-layout-grid-rows.svg");
+  background-image: url("./icons/32-layout-grid-rows.svg");
 }
 
 .icon--32-layout-grid-columns {
-  background-image: url("./dist/icons/32-layout-grid-columns.svg");
+  background-image: url("./icons/32-layout-grid-columns.svg");
 }
 
 .icon--32-layout-grid-uniform {
-  background-image: url("./dist/icons/32-layout-grid-uniform.svg");
+  background-image: url("./icons/32-layout-grid-uniform.svg");
 }
 
 .icon--32-search {
-  background-image: url("./dist/icons/32-search.svg");
+  background-image: url("./icons/32-search.svg");
 }
 
 .icon--32-return {
-  background-image: url("./dist/icons/32-return.svg");
+  background-image: url("./icons/32-return.svg");
 }
 
 .icon--32-missing-fonts-color {
-  background-image: url("./dist/icons/32-missing-fonts-color.svg");
+  background-image: url("./icons/32-missing-fonts-color.svg");
 }
 
 .icon--32-missing-fonts-toolbar {
-  background-image: url("./dist/icons/32-missing-fonts-toolbar.svg");
+  background-image: url("./icons/32-missing-fonts-toolbar.svg");
 }
 
 .icon--32-vector-handles {
-  background-image: url("./dist/icons/32-vector-handles.svg");
+  background-image: url("./icons/32-vector-handles.svg");
 }
 
 .icon--32-reset-instance {
-  background-image: url("./dist/icons/32-reset-instance.svg");
+  background-image: url("./icons/32-reset-instance.svg");
 }
 
 .icon--32-component {
-  background-image: url("./dist/icons/32-component.svg");
+  background-image: url("./icons/32-component.svg");
 }
 
 .icon--32-frame {
-  background-image: url("./dist/icons/32-frame.svg");
+  background-image: url("./icons/32-frame.svg");
 }
 
 .icon--32-lock-unlocked {
-  background-image: url("./dist/icons/32-lock-unlocked.svg");
+  background-image: url("./icons/32-lock-unlocked.svg");
 }
 
 .icon--32-lock {
-  background-image: url("./dist/icons/32-lock.svg");
+  background-image: url("./icons/32-lock.svg");
 }
 
 .icon--32-styles {
-  background-image: url("./dist/icons/32-styles.svg");
+  background-image: url("./icons/32-styles.svg");
 }
 
 .icon--32-code {
-  background-image: url("./dist/icons/32-code.svg");
+  background-image: url("./icons/32-code.svg");
 }
 
 .icon--32-font-feature-liga {
-  background-image: url("./dist/icons/32-font-feature-liga.svg");
+  background-image: url("./icons/32-font-feature-liga.svg");
 }
 
 .icon--32-font-feature-hlig {
-  background-image: url("./dist/icons/32-font-feature-hlig.svg");
+  background-image: url("./icons/32-font-feature-hlig.svg");
 }
 
 .icon--32-font-feature-dlig {
-  background-image: url("./dist/icons/32-font-feature-dlig.svg");
+  background-image: url("./icons/32-font-feature-dlig.svg");
 }
 
 .icon--32-font-feature-frac {
-  background-image: url("./dist/icons/32-font-feature-frac.svg");
+  background-image: url("./icons/32-font-feature-frac.svg");
 }
 
 .icon--32-list {
-  background-image: url("./dist/icons/32-list.svg");
+  background-image: url("./icons/32-list.svg");
 }
 
 .icon--32-grid {
-  background-image: url("./dist/icons/32-grid.svg");
+  background-image: url("./icons/32-grid.svg");
 }
 
 .icon--32-target {
-  background-image: url("./dist/icons/32-target.svg");
+  background-image: url("./icons/32-target.svg");
 }
 
 .icon--32-font-feature-smcp {
-  background-image: url("./dist/icons/32-font-feature-smcp.svg");
+  background-image: url("./icons/32-font-feature-smcp.svg");
 }
 
 .icon--32-font-feature-sups {
-  background-image: url("./dist/icons/32-font-feature-sups.svg");
+  background-image: url("./icons/32-font-feature-sups.svg");
 }
 
 .icon--32-font-feature-subs {
-  background-image: url("./dist/icons/32-font-feature-subs.svg");
+  background-image: url("./icons/32-font-feature-subs.svg");
 }
 
 .icon--32-node-connect {
-  background-image: url("./dist/icons/32-node-connect.svg");
+  background-image: url("./icons/32-node-connect.svg");
 }
 
 .icon--32-rotate {
-  background-image: url("./dist/icons/32-rotate.svg");
+  background-image: url("./icons/32-rotate.svg");
 }
 
 .icon--32-pencil {
-  background-image: url("./dist/icons/32-pencil.svg");
+  background-image: url("./icons/32-pencil.svg");
 }
 
 .icon--32-gotoitem {
-  background-image: url("./dist/icons/32-gotoitem.svg");
+  background-image: url("./icons/32-gotoitem.svg");
 }
 
 .icon--32-eyedropper {
-  background-image: url("./dist/icons/32-eyedropper.svg");
+  background-image: url("./icons/32-eyedropper.svg");
 }
 
 .icon--32-font-feature-tnum {
-  background-image: url("./dist/icons/32-font-feature-tnum.svg");
+  background-image: url("./icons/32-font-feature-tnum.svg");
 }
 
 .icon--32-font-feature-onum {
-  background-image: url("./dist/icons/32-font-feature-onum.svg");
+  background-image: url("./icons/32-font-feature-onum.svg");
 }
 
 .icon--32-play {
-  background-image: url("./dist/icons/32-play.svg");
+  background-image: url("./icons/32-play.svg");
 }
 
 .icon--32-node-delete {
-  background-image: url("./dist/icons/32-node-delete.svg");
+  background-image: url("./icons/32-node-delete.svg");
 }
 
 .icon--32-warning {
-  background-image: url("./dist/icons/32-warning.svg");
+  background-image: url("./icons/32-warning.svg");
 }
 
 .icon--32-warning-light {
-  background-image: url("./dist/icons/32-warning-light.svg");
+  background-image: url("./icons/32-warning-light.svg");
 }
 
 .icon--32-noticeinfo {
-  background-image: url("./dist/icons/32-noticeinfo.svg");
+  background-image: url("./icons/32-noticeinfo.svg");
 }
 
 .icon--32-infoinfo {
-  background-image: url("./dist/icons/32-infoinfo.svg");
+  background-image: url("./icons/32-infoinfo.svg");
 }
 
 .icon--32-resolve {
-  background-image: url("./dist/icons/32-resolve.svg");
+  background-image: url("./icons/32-resolve.svg");
 }
 
 .icon--32-resolve-filled {
-  background-image: url("./dist/icons/32-resolve-filled.svg");
+  background-image: url("./icons/32-resolve-filled.svg");
 }
 
 .icon--32-smileyemoji {
-  background-image: url("./dist/icons/32-smileyemoji.svg");
+  background-image: url("./icons/32-smileyemoji.svg");
 }
 
 .icon--32-hyperlinkalt {
-  background-image: url("./dist/icons/32-hyperlinkalt.svg");
+  background-image: url("./icons/32-hyperlinkalt.svg");
 }
 
 .icon--32-animation {
-  background-image: url("./dist/icons/32-animation.svg");
+  background-image: url("./icons/32-animation.svg");
 }
 
 .icon--32-full-screen-exit {
-  background-image: url("./dist/icons/32-full-screen-exit.svg");
+  background-image: url("./icons/32-full-screen-exit.svg");
 }
 
 .icon--32-scale {
-  background-image: url("./dist/icons/32-scale.svg");
+  background-image: url("./icons/32-scale.svg");
 }
 
 .icon--32-circle-with-up-arrow {
-  background-image: url("./dist/icons/32-circle-with-up-arrow.svg");
+  background-image: url("./icons/32-circle-with-up-arrow.svg");
 }
 
 .icon--32-star {
-  background-image: url("./dist/icons/32-star.svg");
+  background-image: url("./icons/32-star.svg");
 }
 
 .icon--32-star-filled {
-  background-image: url("./dist/icons/32-star-filled.svg");
+  background-image: url("./icons/32-star-filled.svg");
 }
 
 .icon--32-macosfinder {
-  background-image: url("./dist/icons/32-macosfinder.svg");
+  background-image: url("./icons/32-macosfinder.svg");
 }
 
 .icon--32-windowsfileexplorer {
-  background-image: url("./dist/icons/32-windowsfileexplorer.svg");
+  background-image: url("./icons/32-windowsfileexplorer.svg");
 }
 
 .icon--32-folder {
-  background-image: url("./dist/icons/32-folder.svg");
+  background-image: url("./icons/32-folder.svg");
 }
 
 .icon--32-full-screen-enter {
-  background-image: url("./dist/icons/32-full-screen-enter.svg");
+  background-image: url("./icons/32-full-screen-enter.svg");
 }
 
 .icon--32-navigate-to {
-  background-image: url("./dist/icons/32-navigate-to.svg");
+  background-image: url("./icons/32-navigate-to.svg");
 }
 
 .icon--32-navigate-back {
-  background-image: url("./dist/icons/32-navigate-back.svg");
+  background-image: url("./icons/32-navigate-back.svg");
 }
 
 .icon--32-layouthorizontal {
-  background-image: url("./dist/icons/32-layouthorizontal.svg");
+  background-image: url("./icons/32-layouthorizontal.svg");
 }
 
 .icon--32-layoutvertical {
-  background-image: url("./dist/icons/32-layoutvertical.svg");
+  background-image: url("./icons/32-layoutvertical.svg");
 }
 
 .icon--32-paddinghorizontal {
-  background-image: url("./dist/icons/32-paddinghorizontal.svg");
+  background-image: url("./icons/32-paddinghorizontal.svg");
 }
 
 .icon--32-paddingvertical {
-  background-image: url("./dist/icons/32-paddingvertical.svg");
+  background-image: url("./icons/32-paddingvertical.svg");
 }
 
 .icon--32-spacinghorizontal {
-  background-image: url("./dist/icons/32-spacinghorizontal.svg");
+  background-image: url("./icons/32-spacinghorizontal.svg");
 }
 
 .icon--32-spacingvertical {
-  background-image: url("./dist/icons/32-spacingvertical.svg");
+  background-image: url("./icons/32-spacingvertical.svg");
 }
 
 .icon--32-animation-instant {
-  background-image: url("./dist/icons/32-animation-instant.svg");
+  background-image: url("./icons/32-animation-instant.svg");
 }
 
 .icon--32-animation-dissolve {
-  background-image: url("./dist/icons/32-animation-dissolve.svg");
+  background-image: url("./icons/32-animation-dissolve.svg");
 }
 
 .icon--32-animation-smart-animate {
-  background-image: url("./dist/icons/32-animation-smart-animate.svg");
+  background-image: url("./icons/32-animation-smart-animate.svg");
 }
 
 .icon--32-interaction-drag {
-  background-image: url("./dist/icons/32-interaction-drag.svg");
+  background-image: url("./icons/32-interaction-drag.svg");
 }
 
 .icon--32-interaction-click {
-  background-image: url("./dist/icons/32-interaction-click.svg");
+  background-image: url("./icons/32-interaction-click.svg");
 }
 
 .icon--32-timing {
-  background-image: url("./dist/icons/32-timing.svg");
+  background-image: url("./icons/32-timing.svg");
 }
 
 .icon--32-swapwith {
-  background-image: url("./dist/icons/32-swapwith.svg");
+  background-image: url("./icons/32-swapwith.svg");
 }
 
 .icon--32-ease-in {
-  background-image: url("./dist/icons/32-ease-in.svg");
+  background-image: url("./icons/32-ease-in.svg");
 }
 
 .icon--32-ease-out {
-  background-image: url("./dist/icons/32-ease-out.svg");
+  background-image: url("./icons/32-ease-out.svg");
 }
 
 .icon--32-ease-in-out {
-  background-image: url("./dist/icons/32-ease-in-out.svg");
+  background-image: url("./icons/32-ease-in-out.svg");
 }
 
 .icon--32-linear {
-  background-image: url("./dist/icons/32-linear.svg");
+  background-image: url("./icons/32-linear.svg");
 }
 
 .icon--32-overlay {
-  background-image: url("./dist/icons/32-overlay.svg");
+  background-image: url("./icons/32-overlay.svg");
 }
 
 .icon--32-overlay-centered {
-  background-image: url("./dist/icons/32-overlay-centered.svg");
+  background-image: url("./icons/32-overlay-centered.svg");
 }
 
 .icon--32-overlay-top-left {
-  background-image: url("./dist/icons/32-overlay-top-left.svg");
+  background-image: url("./icons/32-overlay-top-left.svg");
 }
 
 .icon--32-overlay-bottom-center {
-  background-image: url("./dist/icons/32-overlay-bottom-center.svg");
+  background-image: url("./icons/32-overlay-bottom-center.svg");
 }
 
 .icon--32-dropshadow-bottom {
-  background-image: url("./dist/icons/32-dropshadow-bottom.svg");
+  background-image: url("./icons/32-dropshadow-bottom.svg");
 }
 
 .icon--32-dropshadow-right {
-  background-image: url("./dist/icons/32-dropshadow-right.svg");
+  background-image: url("./icons/32-dropshadow-right.svg");
 }
 
 .icon--32-dropshadow-top {
-  background-image: url("./dist/icons/32-dropshadow-top.svg");
+  background-image: url("./icons/32-dropshadow-top.svg");
 }
 
 .icon--32-dropshadow-left {
-  background-image: url("./dist/icons/32-dropshadow-left.svg");
+  background-image: url("./icons/32-dropshadow-left.svg");
 }
 
 .icon--32-polygoncount {
-  background-image: url("./dist/icons/32-polygoncount.svg");
+  background-image: url("./icons/32-polygoncount.svg");
 }
 
 .icon--32-starcount {
-  background-image: url("./dist/icons/32-starcount.svg");
+  background-image: url("./icons/32-starcount.svg");
 }
 
 .icon--32-ratiousedforstar {
-  background-image: url("./dist/icons/32-ratiousedforstar.svg");
+  background-image: url("./icons/32-ratiousedforstar.svg");
 }
 
 .icon--32-innershadow-top {
-  background-image: url("./dist/icons/32-innershadow-top.svg");
+  background-image: url("./icons/32-innershadow-top.svg");
 }
 
 .icon--32-innershadow-topright {
-  background-image: url("./dist/icons/32-innershadow-topright.svg");
+  background-image: url("./icons/32-innershadow-topright.svg");
 }
 
 .icon--32-innershadow-right {
-  background-image: url("./dist/icons/32-innershadow-right.svg");
+  background-image: url("./icons/32-innershadow-right.svg");
 }
 
 .icon--32-innershadow-bottomright {
-  background-image: url("./dist/icons/32-innershadow-bottomright.svg");
+  background-image: url("./icons/32-innershadow-bottomright.svg");
 }
 
 .icon--32-innershadow-bottom {
-  background-image: url("./dist/icons/32-innershadow-bottom.svg");
+  background-image: url("./icons/32-innershadow-bottom.svg");
 }
 
 .icon--32-innershadow-bottomleft {
-  background-image: url("./dist/icons/32-innershadow-bottomleft.svg");
+  background-image: url("./icons/32-innershadow-bottomleft.svg");
 }
 
 .icon--32-innershadow-left {
-  background-image: url("./dist/icons/32-innershadow-left.svg");
+  background-image: url("./icons/32-innershadow-left.svg");
 }
 
 .icon--32-innershadow-topleft {
-  background-image: url("./dist/icons/32-innershadow-topleft.svg");
+  background-image: url("./icons/32-innershadow-topleft.svg");
 }
 
 .icon--16-caret-right {
-  background-image: url("./dist/icons/16-caret-right.svg");
+  background-image: url("./icons/16-caret-right.svg");
 }
 
 .icon--16-caret-down {
-  background-image: url("./dist/icons/16-caret-down.svg");
+  background-image: url("./icons/16-caret-down.svg");
 }
 
 .icon--16-visibleeyeopen {
-  background-image: url("./dist/icons/16-visibleeyeopen.svg");
+  background-image: url("./icons/16-visibleeyeopen.svg");
 }
 
 .icon--16-hiddeneyeclosed {
-  background-image: url("./dist/icons/16-hiddeneyeclosed.svg");
+  background-image: url("./icons/16-hiddeneyeclosed.svg");
 }
 
 .icon--16-caret-up {
-  background-image: url("./dist/icons/16-caret-up.svg");
+  background-image: url("./icons/16-caret-up.svg");
 }
 
 .icon--16-auto-layout-vertical-left {
-  background-image: url("./dist/icons/16-auto-layout-vertical-left.svg");
+  background-image: url("./icons/16-auto-layout-vertical-left.svg");
 }
 
 .icon--16-auto-layout-vertical-center {
-  background-image: url("./dist/icons/16-auto-layout-vertical-center.svg");
+  background-image: url("./icons/16-auto-layout-vertical-center.svg");
 }
 
 .icon--16-auto-layout-vertical-right {
-  background-image: url("./dist/icons/16-auto-layout-vertical-right.svg");
+  background-image: url("./icons/16-auto-layout-vertical-right.svg");
 }
 
 .icon--16-type {
-  background-image: url("./dist/icons/16-type.svg");
+  background-image: url("./icons/16-type.svg");
 }
 
 .icon--16-slice {
-  background-image: url("./dist/icons/16-slice.svg");
+  background-image: url("./icons/16-slice.svg");
 }
 
 .icon--16-menu-checkmark-on {
-  background-image: url("./dist/icons/16-menu-checkmark-on.svg");
+  background-image: url("./icons/16-menu-checkmark-on.svg");
 }
 
 .icon--16-menu-checkmark-mixed {
-  background-image: url("./dist/icons/16-menu-checkmark-mixed.svg");
+  background-image: url("./icons/16-menu-checkmark-mixed.svg");
 }
 
 .icon--16-menu-checkmark-breadcrumb {
-  background-image: url("./dist/icons/16-menu-checkmark-breadcrumb.svg");
+  background-image: url("./icons/16-menu-checkmark-breadcrumb.svg");
 }
 
 .icon--16-anchor-right-left {
-  background-image: url("./dist/icons/16-anchor-right-left.svg");
+  background-image: url("./icons/16-anchor-right-left.svg");
 }
 
 .icon--16-anchor-up-down {
-  background-image: url("./dist/icons/16-anchor-up-down.svg");
+  background-image: url("./icons/16-anchor-up-down.svg");
 }
 
 .icon--16-auto-layout-horizontal-top {
-  background-image: url("./dist/icons/16-auto-layout-horizontal-top.svg");
+  background-image: url("./icons/16-auto-layout-horizontal-top.svg");
 }
 
 .icon--16-auto-layout-horizontal-center {
-  background-image: url("./dist/icons/16-auto-layout-horizontal-center.svg");
+  background-image: url("./icons/16-auto-layout-horizontal-center.svg");
 }
 
 .icon--16-auto-layout-horizontal-bottom {
-  background-image: url("./dist/icons/16-auto-layout-horizontal-bottom.svg");
+  background-image: url("./icons/16-auto-layout-horizontal-bottom.svg");
 }
 
 .icon--16-component {
-  background-image: url("./dist/icons/16-component.svg");
+  background-image: url("./icons/16-component.svg");
 }
 
 .icon--16-arrow-left {
-  background-image: url("./dist/icons/16-arrow-left.svg");
+  background-image: url("./icons/16-arrow-left.svg");
 }
 
 .icon--16-arrow-right {
-  background-image: url("./dist/icons/16-arrow-right.svg");
+  background-image: url("./icons/16-arrow-right.svg");
 }
 
 .icon--16-arrow-down {
-  background-image: url("./dist/icons/16-arrow-down.svg");
+  background-image: url("./icons/16-arrow-down.svg");
 }
 
 .icon--16-arrow-up {
-  background-image: url("./dist/icons/16-arrow-up.svg");
+  background-image: url("./icons/16-arrow-up.svg");
 }
 
 .icon--16-arrow-up-down {
-  background-image: url("./dist/icons/16-arrow-up-down.svg");
+  background-image: url("./icons/16-arrow-up-down.svg");
 }
 
 .icon--16-instance {
-  background-image: url("./dist/icons/16-instance.svg");
+  background-image: url("./icons/16-instance.svg");
 }
 
 .icon--16-group {
-  background-image: url("./dist/icons/16-group.svg");
+  background-image: url("./icons/16-group.svg");
 }
 
 .icon--16-arrow-left-right {
-  background-image: url("./dist/icons/16-arrow-left-right.svg");
+  background-image: url("./icons/16-arrow-left-right.svg");
 }
 
 .icon--16-align-top {
-  background-image: url("./dist/icons/16-align-top.svg");
+  background-image: url("./icons/16-align-top.svg");
 }
 
 .icon--16-align-vertical-center {
-  background-image: url("./dist/icons/16-align-vertical-center.svg");
+  background-image: url("./icons/16-align-vertical-center.svg");
 }
 
 .icon--16-align-bottom {
-  background-image: url("./dist/icons/16-align-bottom.svg");
+  background-image: url("./icons/16-align-bottom.svg");
 }
 
 .icon--16-upload {
-  background-image: url("./dist/icons/16-upload.svg");
+  background-image: url("./icons/16-upload.svg");
 }
 
 .icon--16-mask {
-  background-image: url("./dist/icons/16-mask.svg");
+  background-image: url("./icons/16-mask.svg");
 }
 
 .icon--16-text-align-left {
-  background-image: url("./dist/icons/16-text-align-left.svg");
+  background-image: url("./icons/16-text-align-left.svg");
 }
 
 .icon--16-text-align-center {
-  background-image: url("./dist/icons/16-text-align-center.svg");
+  background-image: url("./icons/16-text-align-center.svg");
 }
 
 .icon--16-text-align-right {
-  background-image: url("./dist/icons/16-text-align-right.svg");
+  background-image: url("./icons/16-text-align-right.svg");
 }
 
 .icon--16-text-align-adjusted {
-  background-image: url("./dist/icons/16-text-align-adjusted.svg");
+  background-image: url("./icons/16-text-align-adjusted.svg");
 }
 
 .icon--16-text-resize-height {
-  background-image: url("./dist/icons/16-text-resize-height.svg");
+  background-image: url("./icons/16-text-resize-height.svg");
 }
 
 .icon--16-frame {
-  background-image: url("./dist/icons/16-frame.svg");
+  background-image: url("./icons/16-frame.svg");
 }
 
 .icon--16-scrollingframe-vertical {
-  background-image: url("./dist/icons/16-scrollingframe-vertical.svg");
+  background-image: url("./icons/16-scrollingframe-vertical.svg");
 }
 
 .icon--16-text-resize-fixed {
-  background-image: url("./dist/icons/16-text-resize-fixed.svg");
+  background-image: url("./icons/16-text-resize-fixed.svg");
 }
 
 .icon--16-overlay {
-  background-image: url("./dist/icons/16-overlay.svg");
+  background-image: url("./icons/16-overlay.svg");
 }
 
 .icon--16-world {
-  background-image: url("./dist/icons/16-world.svg");
+  background-image: url("./icons/16-world.svg");
 }
 
 .icon--16-star {
-  background-image: url("./dist/icons/16-star.svg");
+  background-image: url("./icons/16-star.svg");
 }
 
 .icon--16-star-filled {
-  background-image: url("./dist/icons/16-star-filled.svg");
+  background-image: url("./icons/16-star-filled.svg");
 }
 
 .icon--16-scrollingframe-horizontal {
-  background-image: url("./dist/icons/16-scrollingframe-horizontal.svg");
+  background-image: url("./icons/16-scrollingframe-horizontal.svg");
 }
 
 .icon--16-noodle {
-  background-image: url("./dist/icons/16-noodle.svg");
+  background-image: url("./icons/16-noodle.svg");
 }
 
 .icon--16-hyperlinkalt {
-  background-image: url("./dist/icons/16-hyperlinkalt.svg");
+  background-image: url("./icons/16-hyperlinkalt.svg");
 }
 
 .icon--16-swaprefresh {
-  background-image: url("./dist/icons/16-swaprefresh.svg");
+  background-image: url("./icons/16-swaprefresh.svg");
 }
 
 .icon--16-lock-unlocked {
-  background-image: url("./dist/icons/16-lock-unlocked.svg");
+  background-image: url("./icons/16-lock-unlocked.svg");
 }
 
 .icon--16-lock {
-  background-image: url("./dist/icons/16-lock.svg");
+  background-image: url("./icons/16-lock.svg");
 }
 
 .icon--16-scrollingframe-both {
-  background-image: url("./dist/icons/16-scrollingframe-both.svg");
+  background-image: url("./icons/16-scrollingframe-both.svg");
 }
 
 .icon--16-coverart {
-  background-image: url("./dist/icons/16-coverart.svg");
+  background-image: url("./icons/16-coverart.svg");
 }
 
 .icon--16-orientation-portrait {
-  background-image: url("./dist/icons/16-orientation-portrait.svg");
+  background-image: url("./icons/16-orientation-portrait.svg");
 }
 
 .icon--16-orientation-landscape {
-  background-image: url("./dist/icons/16-orientation-landscape.svg");
+  background-image: url("./icons/16-orientation-landscape.svg");
 }
 
 .icon--16-text-decoration-underline {
-  background-image: url("./dist/icons/16-text-decoration-underline.svg");
+  background-image: url("./icons/16-text-decoration-underline.svg");
 }
 
 .icon--16-text-decoration-strikethrough {
-  background-image: url("./dist/icons/16-text-decoration-strikethrough.svg");
+  background-image: url("./icons/16-text-decoration-strikethrough.svg");
 }
 
 .icon--16-warning {
-  background-image: url("./dist/icons/16-warning.svg");
+  background-image: url("./icons/16-warning.svg");
 }
 
 .icon--16-vector {
-  background-image: url("./dist/icons/16-vector.svg");
+  background-image: url("./icons/16-vector.svg");
 }
 
 .icon--16-text-transform-forced-small-caps {
-  background-image: url("./dist/icons/16-text-transform-forced-small-caps.svg");
+  background-image: url("./icons/16-text-transform-forced-small-caps.svg");
 }
 
 .icon--16-text-transform-small-caps {
-  background-image: url("./dist/icons/16-text-transform-small-caps.svg");
+  background-image: url("./icons/16-text-transform-small-caps.svg");
 }
 
 .icon--16-text-transform-upper {
-  background-image: url("./dist/icons/16-text-transform-upper.svg");
+  background-image: url("./icons/16-text-transform-upper.svg");
 }
 
 .icon--16-text-transform-lower {
-  background-image: url("./dist/icons/16-text-transform-lower.svg");
+  background-image: url("./icons/16-text-transform-lower.svg");
 }
 
 .icon--16-text-transform-capitalize {
-  background-image: url("./dist/icons/16-text-transform-capitalize.svg");
+  background-image: url("./icons/16-text-transform-capitalize.svg");
 }
 
 .icon--16-vector-animatedfill {
-  background-image: url("./dist/icons/16-vector-animatedfill.svg");
+  background-image: url("./icons/16-vector-animatedfill.svg");
 }
 
 .icon--16-vector-imagefill {
-  background-image: url("./dist/icons/16-vector-imagefill.svg");
+  background-image: url("./icons/16-vector-imagefill.svg");
 }
 
 .icon--16-stroke-join-miter {
-  background-image: url("./dist/icons/16-stroke-join-miter.svg");
+  background-image: url("./icons/16-stroke-join-miter.svg");
 }
 
 .icon--16-stroke-join-bevel {
-  background-image: url("./dist/icons/16-stroke-join-bevel.svg");
+  background-image: url("./icons/16-stroke-join-bevel.svg");
 }
 
 .icon--16-stroke-join-round {
-  background-image: url("./dist/icons/16-stroke-join-round.svg");
+  background-image: url("./icons/16-stroke-join-round.svg");
 }
 
 .icon--16-option-strip-enabled {
-  background-image: url("./dist/icons/16-option-strip-enabled.svg");
+  background-image: url("./icons/16-option-strip-enabled.svg");
 }
 
 .icon--16-option-strip-disabled {
-  background-image: url("./dist/icons/16-option-strip-disabled.svg");
+  background-image: url("./icons/16-option-strip-disabled.svg");
 }
 
 .icon--16-auto-layoutvertical-left {
-  background-image: url("./dist/icons/16-auto-layoutvertical-left.svg");
+  background-image: url("./icons/16-auto-layoutvertical-left.svg");
 }
 
 .icon--16-menu-chevron {
-  background-image: url("./dist/icons/16-menu-chevron.svg");
+  background-image: url("./icons/16-menu-chevron.svg");
 }
 
 .icon--16-hyperlink {
-  background-image: url("./dist/icons/16-hyperlink.svg");
+  background-image: url("./icons/16-hyperlink.svg");
 }
 
 .icon--16-disclosurealt-caret {
-  background-image: url("./dist/icons/16-disclosurealt-caret.svg");
+  background-image: url("./icons/16-disclosurealt-caret.svg");
 }
 
 .icon--16-target {
-  background-image: url("./dist/icons/16-target.svg");
+  background-image: url("./icons/16-target.svg");
 }
 
 .icon--16-auto-layoutvertical-center {
-  background-image: url("./dist/icons/16-auto-layoutvertical-center.svg");
+  background-image: url("./icons/16-auto-layoutvertical-center.svg");
 }
 
 .icon--16-auto-layoutvertical-right {
-  background-image: url("./dist/icons/16-auto-layoutvertical-right.svg");
+  background-image: url("./icons/16-auto-layoutvertical-right.svg");
 }
 
 .icon--16-proportional-uppercase {
-  background-image: url("./dist/icons/16-proportional-uppercase.svg");
+  background-image: url("./icons/16-proportional-uppercase.svg");
 }
 
 .icon--16-monospace-uppercase {
-  background-image: url("./dist/icons/16-monospace-uppercase.svg");
+  background-image: url("./icons/16-monospace-uppercase.svg");
 }
 
 .icon--16-proportional-lowercase {
-  background-image: url("./dist/icons/16-proportional-lowercase.svg");
+  background-image: url("./icons/16-proportional-lowercase.svg");
 }
 
 .icon--16-monospace-lowercase {
-  background-image: url("./dist/icons/16-monospace-lowercase.svg");
+  background-image: url("./icons/16-monospace-lowercase.svg");
 }
 
 .icon--16-auto-layouthorizontal-top {
-  background-image: url("./dist/icons/16-auto-layouthorizontal-top.svg");
+  background-image: url("./icons/16-auto-layouthorizontal-top.svg");
 }
 
 .icon--16-position-subscript {
-  background-image: url("./dist/icons/16-position-subscript.svg");
+  background-image: url("./icons/16-position-subscript.svg");
 }
 
 .icon--16-position-normal {
-  background-image: url("./dist/icons/16-position-normal.svg");
+  background-image: url("./icons/16-position-normal.svg");
 }
 
 .icon--16-position-superscript {
-  background-image: url("./dist/icons/16-position-superscript.svg");
+  background-image: url("./icons/16-position-superscript.svg");
 }
 
 .icon--16-code {
-  background-image: url("./dist/icons/16-code.svg");
+  background-image: url("./icons/16-code.svg");
 }
 
 .icon--16-table {
-  background-image: url("./dist/icons/16-table.svg");
+  background-image: url("./icons/16-table.svg");
 }
 
 .icon--16-auto-layouthorizontal-center {
-  background-image: url("./dist/icons/16-auto-layouthorizontal-center.svg");
+  background-image: url("./icons/16-auto-layouthorizontal-center.svg");
 }
 
 .icon--16-auto-layouthorizontal-bottom {
-  background-image: url("./dist/icons/16-auto-layouthorizontal-bottom.svg");
+  background-image: url("./icons/16-auto-layouthorizontal-bottom.svg");
 }
 
 .icon--16-help {
-  background-image: url("./dist/icons/16-help.svg");
+  background-image: url("./icons/16-help.svg");
 }
 
 .icon--16-overlay-centered {
-  background-image: url("./dist/icons/16-overlay-centered.svg");
+  background-image: url("./icons/16-overlay-centered.svg");
 }
 
 .icon--16-overlay-top-left {
-  background-image: url("./dist/icons/16-overlay-top-left.svg");
+  background-image: url("./icons/16-overlay-top-left.svg");
 }
 
 .icon--16-overlay-bottom-center {
-  background-image: url("./dist/icons/16-overlay-bottom-center.svg");
+  background-image: url("./icons/16-overlay-bottom-center.svg");
 }
 
 .icon--16-info {
-  background-image: url("./dist/icons/16-info.svg");
+  background-image: url("./icons/16-info.svg");
 }
 
 .icon--40-toolbar-menu {
-  background-image: url("./dist/icons/40-toolbar-menu.svg");
+  background-image: url("./icons/40-toolbar-menu.svg");
 }
 
 .icon--40-toolbar-move {
-  background-image: url("./dist/icons/40-toolbar-move.svg");
+  background-image: url("./icons/40-toolbar-move.svg");
 }
 
 .icon--40-toolbar-frame {
-  background-image: url("./dist/icons/40-toolbar-frame.svg");
+  background-image: url("./icons/40-toolbar-frame.svg");
 }
 
 .icon--40-toolbar-rectanglesquare {
-  background-image: url("./dist/icons/40-toolbar-rectanglesquare.svg");
+  background-image: url("./icons/40-toolbar-rectanglesquare.svg");
 }
 
 .icon--40-toolbar-pen {
-  background-image: url("./dist/icons/40-toolbar-pen.svg");
+  background-image: url("./icons/40-toolbar-pen.svg");
 }
 
 .icon--40-toolbar-typealt-text {
-  background-image: url("./dist/icons/40-toolbar-typealt-text.svg");
+  background-image: url("./icons/40-toolbar-typealt-text.svg");
 }
 
 .icon--40-toolbar-panhand {
-  background-image: url("./dist/icons/40-toolbar-panhand.svg");
+  background-image: url("./icons/40-toolbar-panhand.svg");
 }
 
 .icon--40-toolbar-comment {
-  background-image: url("./dist/icons/40-toolbar-comment.svg");
+  background-image: url("./icons/40-toolbar-comment.svg");
 }
 
 .icon--40-toolbar-edit-vector {
-  background-image: url("./dist/icons/40-toolbar-edit-vector.svg");
+  background-image: url("./icons/40-toolbar-edit-vector.svg");
 }
 
 .icon--40-toolbar-comp-create {
-  background-image: url("./dist/icons/40-toolbar-comp-create.svg");
+  background-image: url("./icons/40-toolbar-comp-create.svg");
 }
 
 .icon--40-toolbar-mask {
-  background-image: url("./dist/icons/40-toolbar-mask.svg");
+  background-image: url("./icons/40-toolbar-mask.svg");
 }
 
 .icon--40-toolbar-boolean-union {
-  background-image: url("./dist/icons/40-toolbar-boolean-union.svg");
+  background-image: url("./icons/40-toolbar-boolean-union.svg");
 }
 
 .icon--40-toolbar-crop {
-  background-image: url("./dist/icons/40-toolbar-crop.svg");
+  background-image: url("./icons/40-toolbar-crop.svg");
 }
 
 .icon--40-toolbar-link {
-  background-image: url("./dist/icons/40-toolbar-link.svg");
+  background-image: url("./icons/40-toolbar-link.svg");
 }
 
 .icon--40-toolbar-play {
-  background-image: url("./dist/icons/40-toolbar-play.svg");
+  background-image: url("./icons/40-toolbar-play.svg");
 }
 
 .icon--40-toolbar-font-issuesmissing {
-  background-image: url("./dist/icons/40-toolbar-font-issuesmissing.svg");
+  background-image: url("./icons/40-toolbar-font-issuesmissing.svg");
 }
 
 .icon--40-toolbar-scale {
-  background-image: url("./dist/icons/40-toolbar-scale.svg");
+  background-image: url("./icons/40-toolbar-scale.svg");
 }
 
 .icon--40-toolbar-slice {
-  background-image: url("./dist/icons/40-toolbar-slice.svg");
+  background-image: url("./icons/40-toolbar-slice.svg");
 }
 
 .icon--40-toolbar-line {
-  background-image: url("./dist/icons/40-toolbar-line.svg");
+  background-image: url("./icons/40-toolbar-line.svg");
 }
 
 .icon--40-toolbar-pencil {
-  background-image: url("./dist/icons/40-toolbar-pencil.svg");
+  background-image: url("./icons/40-toolbar-pencil.svg");
 }
 
 .icon--40-toolbar-comp-reset {
-  background-image: url("./dist/icons/40-toolbar-comp-reset.svg");
+  background-image: url("./icons/40-toolbar-comp-reset.svg");
 }
 
 .icon--40-toolbar-boolean-subtract {
-  background-image: url("./dist/icons/40-toolbar-boolean-subtract.svg");
+  background-image: url("./icons/40-toolbar-boolean-subtract.svg");
 }
 
 .icon--40-cloudoffline {
-  background-image: url("./dist/icons/40-cloudoffline.svg");
+  background-image: url("./icons/40-cloudoffline.svg");
 }
 
 .icon--40-cloudsaving {
-  background-image: url("./dist/icons/40-cloudsaving.svg");
+  background-image: url("./icons/40-cloudsaving.svg");
 }
 
 .icon--40-toolbar-arrow {
-  background-image: url("./dist/icons/40-toolbar-arrow.svg");
+  background-image: url("./icons/40-toolbar-arrow.svg");
 }
 
 .icon--40-toolbar-boolean-intersect {
-  background-image: url("./dist/icons/40-toolbar-boolean-intersect.svg");
+  background-image: url("./icons/40-toolbar-boolean-intersect.svg");
 }
 
 .icon--40-toolbar-ovalcircle {
-  background-image: url("./dist/icons/40-toolbar-ovalcircle.svg");
+  background-image: url("./icons/40-toolbar-ovalcircle.svg");
 }
 
 .icon--40-toolbar-boolean-exclude {
-  background-image: url("./dist/icons/40-toolbar-boolean-exclude.svg");
+  background-image: url("./icons/40-toolbar-boolean-exclude.svg");
 }
 
 .icon--40-toolbar-polygontriangle {
-  background-image: url("./dist/icons/40-toolbar-polygontriangle.svg");
+  background-image: url("./icons/40-toolbar-polygontriangle.svg");
 }
 
 .icon--40-toolbar-flatten {
-  background-image: url("./dist/icons/40-toolbar-flatten.svg");
+  background-image: url("./icons/40-toolbar-flatten.svg");
 }
 
 .icon--40-toolbar-starfavorite {
-  background-image: url("./dist/icons/40-toolbar-starfavorite.svg");
+  background-image: url("./icons/40-toolbar-starfavorite.svg");
 }
 
 .icon--40-toolbar-image {
-  background-image: url("./dist/icons/40-toolbar-image.svg");
+  background-image: url("./icons/40-toolbar-image.svg");
 }
 
 .icon--40-toolbar-bend {
-  background-image: url("./dist/icons/40-toolbar-bend.svg");
+  background-image: url("./icons/40-toolbar-bend.svg");
 }
 
 .icon--40-toolbar-paint {
-  background-image: url("./dist/icons/40-toolbar-paint.svg");
+  background-image: url("./icons/40-toolbar-paint.svg");
 }
 
 .icon--40-toolbar-newplus {
-  background-image: url("./dist/icons/40-toolbar-newplus.svg");
+  background-image: url("./icons/40-toolbar-newplus.svg");
 }
 
 .icon--40-toolbar-import {
-  background-image: url("./dist/icons/40-toolbar-import.svg");
+  background-image: url("./icons/40-toolbar-import.svg");
 }
 
 .icon--40-toolbar-search {
-  background-image: url("./dist/icons/40-toolbar-search.svg");
+  background-image: url("./icons/40-toolbar-search.svg");
 }
 
 .icon--40-toolbar-favorite-off {
-  background-image: url("./dist/icons/40-toolbar-favorite-off.svg");
+  background-image: url("./icons/40-toolbar-favorite-off.svg");
 }
 
 .icon--40-toolbar-restore {
-  background-image: url("./dist/icons/40-toolbar-restore.svg");
+  background-image: url("./icons/40-toolbar-restore.svg");
 }
 
 .icon--40-toolbar-favorite-on {
-  background-image: url("./dist/icons/40-toolbar-favorite-on.svg");
+  background-image: url("./icons/40-toolbar-favorite-on.svg");
 }
 
 .icon--64-play {
-  background-image: url("./dist/icons/64-play.svg");
+  background-image: url("./icons/64-play.svg");
 }

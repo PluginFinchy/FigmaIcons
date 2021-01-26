@@ -27,18 +27,18 @@ icons.forEach(icon => {
 
 
 const iconScss = '.icon{\n'+ icons.map(icon => {
-    return `&--${icon[0]} {\nbackground-image:url('./dist/icons/${icon[0]}.svg')\n}`
+    return `&--${icon[0]} {\nbackground-image:url('./icons/${icon[0]}.svg')\n}`
 }).join('\n') + '\n}'
 
 
- fs.writeFile(`./dist/figmaIcons.scss`,iconScss, 'utf8',  (err) => {
+ fs.writeFile(`./dist/figmaicons.scss`,iconScss, 'utf8',  (err) => {
     err ? console.log(err) : null;
     if(!err){     
 
     }
 })
 
-const iconMd = `Icons exported from the UI2 Figma community file\n\n\n|Icon|Name|\n|-|-|\n`+icons.map(icon => {
+const iconMd = `Icons exported from the UI2 Figma community file\nInstall via npm \`npm install @lukefinch/figmaicons\` \n \`import figmaicons from @lukefinch/figmaicons/dist/figmaicons.css\` \n\n|Icon|Name|\n|-|-|\n`+icons.map(icon => {
     return `|![${icon[0]}](dist/icons/${icon[0]}.svg)|icon--${icon[0]}`
 }).join('\n')
 
@@ -48,7 +48,7 @@ fs.writeFile(`readme.md`,iconMd, 'utf8',  (err) => {
 
 sass.render({data: iconScss, outputStyle: 'expanded'}, (err,res) => {
     if(!err){
-        fs.writeFile('./dist/figmaIcons.css', res.css, function(err){
+        fs.writeFile('./dist/figmaicons.css', res.css, function(err){
             if(!err){
               //file written on disk
             }

@@ -1,5 +1,6 @@
 Icons exported from the UI2 Figma community file
-
+Install via npm `npm install @lukefinch/figmaicons` 
+ `import figmaicons from @lukefinch/figmaicons/dist/figmaicons.css` 
 
 |Icon|Name|
 |-|-|
