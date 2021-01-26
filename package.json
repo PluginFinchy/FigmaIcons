@@ -1,5 +1,5 @@
 {
-  "name": "figmaicons",
+  "name": "@lukefinch/figmaicons",
   "version": "1.0.0",
   "description": "",
   "main": "generate.js",
