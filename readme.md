@@ -1,3 +1,6 @@
+Icons exported from the UI2 Figma community file
+
+
 |Icon|Name|
 |-|-|
 |![32-angle](icons/32-angle.svg)|icon--32-angle

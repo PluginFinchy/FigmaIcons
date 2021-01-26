@@ -1,0 +1,24 @@
+{
+  "name": "figma-icons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate.js",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "node generate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PluginFinchy/FigmaIcons.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PluginFinchy/FigmaIcons/issues"
+  },
+  "homepage": "https://github.com/PluginFinchy/FigmaIcons#readme"
+}
