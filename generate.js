@@ -39,7 +39,7 @@ const iconScss = '.icon{\n'+ icons.map(icon => {
 })
 
 const iconMd = `Icons exported from the UI2 Figma community file\n\n\n|Icon|Name|\n|-|-|\n`+icons.map(icon => {
-    return `|![${icon[0]}](icons/${icon[0]}.svg)|icon--${icon[0]}`
+    return `|![${icon[0]}](dist/icons/${icon[0]}.svg)|icon--${icon[0]}`
 }).join('\n')
 
 fs.writeFile(`readme.md`,iconMd, 'utf8',  (err) => {
