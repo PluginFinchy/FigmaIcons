@@ -1,11 +1,9 @@
 {
   "name": "@lukefinch/figmaicons",
-  "version": "1.0.2",
+  "version": "1.1.1",
   "description": "Icons exported from the UI2 figma community file for use in plugin UIs",
   "main": "generate.js",
-  "dependencies": {
-    
-  },
+  "dependencies": {},
   "devDependencies": {
     "node-sass": "^5.0.0"
   },
